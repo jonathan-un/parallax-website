@@ -1,2 +1,5 @@
 # parallax-website
-Projet d'une page utilisant l'effet parallax inspiré d'un tutoriel.
+Projet d'une page utilisant l'effet parallax. 
+
+# ps
+Ce projet est un tutoriel.
